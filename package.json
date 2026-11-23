@@ -1,0 +1,12 @@
+{
+  "name": "image-resample-lab",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A local image playground comparing nearest-neighbor and browser smoothing modes at adjustable output sizes.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
